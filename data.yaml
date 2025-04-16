@@ -1,0 +1,7 @@
+
+path: ../datasets/monuseg_2018  # or '.' if running from dataset dir
+train: images/train
+val: images/val
+
+nc: 1  # number of classes
+names: ['nucleus']  # replace with your class name
